@@ -3,10 +3,28 @@
 /*Apply padding: 10px; to each element*/
 
 
+.animal{
+    background-color: lightgoldenrodyellow;
+    border: 1px solid black; 
+}
+
+.plants{
+    background-color: lightgreen;
+    border: 1px solid black; 
+}
+
+.wild-animals{
+    background-color: red;
+    padding:1px;
+    border: 1px solid black;
+}
 
 
 /* 2. Please style the headings to be blue*/
 
+h2{
+    color:blue;
+}
 
 
 
